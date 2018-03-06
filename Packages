@@ -1,0 +1,164 @@
+Package: com.TikiDev.actualbattery2
+Section: Tweaks
+Maintainer: pw5a29
+Architecture: iphoneos-arm
+Version: 2.0-4
+Depends: mobilesubstrate
+Filename: debs//actualbattery_2.0-4.deb
+Size: 16648
+MD5sum: C655E55FD4471E9FDDF56F3ACDB383A3
+SHA1: 5211914AC7C5A0DF8FEB7AC549B4007EF7D0AE94
+SHA256: 5ECCD543F9275487613F982228FEAEF26D5D1955FD035FA252C293F9EC74660B
+Description: Show actual battery percentage based on your iPhones battery.
+Name: Actual Battery 2
+Author: pw5a29
+
+Package: com.TikiDev.aerial
+Section: Tweaks
+Maintainer: Surenix
+Architecture: iphoneos-arm
+Version: 1.1
+Depends: mobilesubstrate
+Filename: debs//aerial_1.1.deb
+Size: 86192
+MD5sum: 116562D0AEF2E7066F4618967CE49E3A
+SHA1: 676DDD7F9E126A5CCB46B3A0CD8D2A6B32CDACEA
+SHA256: FCEE22766DB24504BBEFC74E8A52002E1D67211C80B70D542C0FFEEC603E196D
+Description: Color your status bar icons like they should be.
+Name: Aerial
+Author: Surenix
+
+Package: com.TikiDev.blurrybadges
+Section: Tweaks
+Maintainer: PoomSmart
+Architecture: iphoneos-arm
+Version: 1.1
+Depends: mobilesubstrate
+Filename: debs//blurrybadges_1.1.deb
+Size: 52108
+MD5sum: C0FD95512B057B0C1E300794F39CF98E
+SHA1: B0B6DD0535EB392848497AE31D993367C3E98E9F
+SHA256: 53398D217E22B538466CC7D23FA7F8F2698EF90CFDEFB4EF5DD7EB44C2576B9C
+Description: Customize app badges in a blurry fashion.
+Name: Blurry Badges
+Author: PoomSmart
+
+Package: com.TikiDev.byebyehud
+Section: Tweaks
+Maintainer: Midkin
+Architecture: iphoneos-arm
+Version: 1.1.3
+Depends: mobilesubstrate
+Filename: debs//byebyehud_1.1.3.deb
+Size: 60250
+MD5sum: D6588003DE8D51A3B457E61A31211942
+SHA1: FCBBD64D05C37BF51DE8E956DCC06895BFF92C8A
+SHA256: DFA37A5ED06D6FD68967055AFF65A269C80A93532E16B898DF243AD319A4BE3A
+Description: Say goodbye to that awful audio HUD.
+Name: ByeByeHUD
+Author: Midkin
+
+Package: com.TikiDev.cask
+Section: Tweaks
+Maintainer: rpetrich
+Architecture: iphoneos-arm
+Version: 0.2
+Depends: mobilesubstrate
+Filename: debs//cask_0.2.deb
+Size: 11048
+MD5sum: E6EA2AAE7512971FD3EBF6E254D56126
+SHA1: 5F3B0AD9C3DCE188BE3D4DC3B1BE81739547136F
+SHA256: 63E6B4E9644F598C788C10164A37E235A4C697988D33EF75A819BF56CE3FF3A4
+Description: Add some flavor to the scrolling animation.
+Name: Cask
+Author: rpetrich
+
+Package: com.TikiDev.flatsafariurl
+Section: Tweaks
+Maintainer: Chikuwa
+Architecture: iphoneos-arm
+Version: 0.0.1
+Depends: mobilesubstrate
+Filename: debs//flatsafariurl_0.0.1.deb
+Size: 2780
+MD5sum: 286005D5D1AF6830D9D148315D419321
+SHA1: CA73F0EB426764CA9DCF9F4BB5934F8BE0213B40
+SHA256: C353C8B164EEA273BABB56F57A0B53FB6C8CA21E2BD76C49F1209F93EE830DA7
+Description: Clean up Safari's URL bar.
+Name: FlatSafariURL
+Author: Chikuwa
+
+Package: com.TikiDev.messagecolors
+Section: Tweaks
+Maintainer: Ziph0n
+Architecture: iphoneos-arm
+Version: 0.5.1-1
+Depends: mobilesubstrate
+Filename: debs//messagecolors_0.5.1-1.deb
+Size: 136866
+MD5sum: 45EF3B53EB82B455AA8246DEC4F11F6B
+SHA1: 9F4426454AF7CCEE2C103CC93FDE1F3127021D56
+SHA256: 15275F08FE30D9BA01A32237203905E27E820BA3D343104CD4224A68CD91B6BE
+Description: Colorize the stock messaging app.
+Name: MessageColors
+Author: Ziph0n
+
+Package: com.TikiDev.picobanners2
+Section: Tweaks
+Maintainer: michyprima
+Architecture: iphoneos-arm
+Version: 0.0.1b1
+Depends: mobilesubstrate
+Filename: debs//picobanners2_0.0.1b1.deb
+Size: 19374
+MD5sum: F4237B4284257DD073C57D6720C4ED5A
+SHA1: 0266E489881D4114A15D742DD57AFBB860BE8989
+SHA256: 111BD5FBBE15671776ABA81A9852C10772A75D4FEB4DEF425BC3270A2EF80D24
+Description: Shrink the notification banners.
+Name: PicoBanners 2
+Author: michyprima
+
+Package: com.TikiDev.s8edge
+Section: Tweaks
+Maintainer: Bruno Andrade
+Architecture: iphoneos-arm
+Version: 1.1
+Depends: mobilesubstrate
+Filename: debs//s8edge_1.1.deb
+Size: 51856
+MD5sum: 801B4F4175AC9377C41B4166C19D05FF
+SHA1: 6C0005EC8BCB764F8863940261A13C26988939DA
+SHA256: F9CBA36626FD2CAEF6BFBEC21C59E3E2E5AFDD2D2FB664A5D8A4177974B10AE8
+Description: Rounds out the iPhones harsh corners.
+Name: S8Edge
+Author: Bruno Andrade
+
+Package: com.TikiDev.springplus
+Section: Tweaks
+Maintainer: Rishanan
+Architecture: iphoneos-arm
+Version: 1.3-2
+Depends: mobilesubstrate
+Filename: debs//springplus_1.3-2.deb
+Size: 47140
+MD5sum: EE47D1B54517921EB5E2CADA238C9786
+SHA1: 87609CB34ACEEF3B333005D29C1306B839D8FEE5
+SHA256: 5714EC5FCD13631BDF0D5E4C94053C422DE700AAA977C33DA6A9A5BD8C335F94
+Description: An simpler iOS alternative to Sprintomize.
+Name: SpringPlus
+Author: Rishanan
+
+Package: 
+Section: 
+Maintainer: 
+Architecture: iphoneos-arm
+Version: 
+Depends: mobilesubstrate
+Filename: debs//
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
+Description: 
+Name: 
+Author: name <email@email.com>

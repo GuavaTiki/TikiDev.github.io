@@ -1,0 +1,8 @@
+Origin: TikiDev's Personal Repo
+Label: TikiDev
+Suite: stable
+Version: 1.0
+Codename: TikiTime
+Architecture: iphoneos-arm
+Components: main
+Description: A collection of stable tweaks for Electra on iOS 11.1.2
