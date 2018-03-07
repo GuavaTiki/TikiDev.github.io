@@ -6,9 +6,9 @@ Version: 2.0-4
 Depends: mobilesubstrate
 Filename: debs//actualbattery_2.0-4.deb
 Size: 16648
-MD5sum: C655E55FD4471E9FDDF56F3ACDB383A3
-SHA1: 5211914AC7C5A0DF8FEB7AC549B4007EF7D0AE94
-SHA256: 5ECCD543F9275487613F982228FEAEF26D5D1955FD035FA252C293F9EC74660B
+MD5sum: c655e55fd4471e9fddf56f3acdb383a3
+SHA1: 5211914ac7c5a0df8feb7ac549b4007ef7d0ae94
+SHA256: 5eccd543f9275487613f982228feaef26d5d1955fd035fa252c293f9ec74660b
 Description: Show actual battery percentage based on your iPhones battery.
 Name: Actual Battery 2
 Author: pw5a29
