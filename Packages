@@ -21,6 +21,10 @@ Version: 1.1
 Depends: mobilesubstrate
 Filename: debs//aerial_1.1.deb
 Size: 86192
+MD5sum: 116562d0aef2e7066f4618967ce49e3a
+SHA1: 676ddd7f9e126a5ccb46b3a0cd8d2a6b32cdacea
+SHA256: fcee22766db24504bbefc74e8a52002e1d67211c80b70d542c0ffeec603e196d
+SHA512: 12e27eea6ee8b1a059fc325d79d338936e383b21e8b7b22ebcd3e03472a0c3598c659589e8ca679bfb6f88df5cc363a472112f015c5488f91f6733d42ac08ebc
 Description: Color your status bar icons like they should be.
 Name: Aerial
 Author: Surenix
